@@ -1,2 +1,2 @@
 # easy-vqa-and-image-captioning
-My NLP assignment 
+NLP assignment 
